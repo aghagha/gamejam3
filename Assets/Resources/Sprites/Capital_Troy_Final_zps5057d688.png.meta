@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: 3d0f87364901ca2458243c917acfba79
+timeCreated: 1481344459
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Capital_Troy_Final_zps5057d688_0
+    21300002: Capital_Troy_Final_zps5057d688_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Capital_Troy_Final_zps5057d688_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 66
+        width: 625
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.5, y: -87.5}
+        - {x: -12.5, y: -90.5}
+        - {x: -14.5, y: -93.5}
+        - {x: -15.5, y: -97.5}
+        - {x: 88.5, y: -97.5}
+        - {x: 88.5, y: -93.5}
+        - {x: 73.5, y: -87.5}
+      - - {x: 112.5, y: -89.5}
+        - {x: 112.5, y: -97.5}
+        - {x: 130.5, y: -97.5}
+        - {x: 130.5, y: -89.5}
+      - - {x: 151.5, y: -97.5}
+        - {x: 150.5, y: -94.5}
+        - {x: 133.5, y: -94.5}
+        - {x: 132.5, y: -97.5}
+      - - {x: 312.5, y: -21.5}
+        - {x: 312.5, y: 87.5}
+        - {x: 310.5, y: 97.5}
+        - {x: 263.5, y: 97.5}
+        - {x: 216.5, y: 92.5}
+        - {x: 215.5, y: 89.5}
+        - {x: 115.5, y: 85.5}
+        - {x: 11.5, y: 97.5}
+        - {x: -33.5, y: 97.5}
+        - {x: -109.5, y: 85.5}
+        - {x: -231.5, y: 71.5}
+        - {x: -272.5, y: 31.5}
+        - {x: -273.5, y: 21.5}
+        - {x: -270.5, y: 20.5}
+        - {x: -243.5, y: 14.5}
+        - {x: -311.5, y: 2.5}
+        - {x: -312.5, y: 0.5}
+        - {x: -312.5, y: -13.5}
+        - {x: -239.5, y: -23.5}
+        - {x: -188.5, y: -58.5}
+        - {x: -158.5, y: -72.5}
+        - {x: -62.5, y: -96.5}
+        - {x: -56.5, y: -84.5}
+        - {x: 54.5, y: -92.5}
+        - {x: 67.5, y: -97.5}
+        - {x: 98.5, y: -97.5}
+        - {x: 131.5, y: -87.5}
+        - {x: 144.5, y: -97.5}
+        - {x: 212.5, y: -97.5}
+        - {x: 215.5, y: -61.5}
+        - {x: 261.5, y: -62.5}
+    - name: Capital_Troy_Final_zps5057d688_1
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 232
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 36.5}
+        - {x: -78, y: 36.5}
+        - {x: -116, y: 16.5}
+        - {x: -116, y: -22.5}
+        - {x: -91, y: -36.5}
+        - {x: 106, y: -36.5}
+        - {x: 116, y: -27.5}
+        - {x: 116, y: 0.5}
+        - {x: 88, y: 32.5}
+      - - {x: 95, y: 36.5}
+        - {x: 95, y: 34.5}
+        - {x: 99, y: 26.5}
+        - {x: 107, y: 26.5}
+        - {x: 109, y: 27.5}
+        - {x: 112, y: 34.5}
+        - {x: 112, y: 36.5}
+      - - {x: 52, y: 36.5}
+        - {x: 50, y: 34.5}
+        - {x: 50, y: 29.5}
+        - {x: 52, y: 27.5}
+        - {x: 66, y: 27.5}
+        - {x: 68, y: 29.5}
+        - {x: 68, y: 34.5}
+        - {x: 66, y: 36.5}
+      - - {x: 18, y: 36.5}
+        - {x: 19, y: 33.5}
+        - {x: 46, y: 33.5}
+        - {x: 48, y: 35.5}
+        - {x: 48, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
