@@ -1,7 +1,7 @@
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2008
-
-Project("{C6CBE024-1EF5-A317-32B0-7433A4CAB59D}") = "GameJam3", "Assembly-CSharp.csproj", "{FBDC4CE8-717F-1837-B608-2AF398B01327}"
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameJam3.CSharp", "GameJam3.CSharp.csproj", "{7DBCBE3B-AEE3-6C16-DC10-665873069262}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,12 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FBDC4CE8-717F-1837-B608-2AF398B01327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FBDC4CE8-717F-1837-B608-2AF398B01327}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FBDC4CE8-717F-1837-B608-2AF398B01327}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FBDC4CE8-717F-1837-B608-2AF398B01327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DBCBE3B-AEE3-6C16-DC10-665873069262}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DBCBE3B-AEE3-6C16-DC10-665873069262}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DBCBE3B-AEE3-6C16-DC10-665873069262}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DBCBE3B-AEE3-6C16-DC10-665873069262}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal

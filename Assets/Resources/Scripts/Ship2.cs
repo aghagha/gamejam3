@@ -18,6 +18,8 @@ public class Ship2 : MonoBehaviour {
 
 	void OnCollisionEnter2D(Collision2D col){
 		if (col.collider.tag == "Obstacle") {
+            GameObject explosion = Instantiate(Resources.Load("Prefabs/Explosion")) as GameObject;
+		    explosion.transform.position = transform.position;
 			Destroy (gameObject);
 			Destroy (col.collider.gameObject);
 		}
